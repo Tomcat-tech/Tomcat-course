@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hi !! This is also an sanple file......?
+=======
+Hi !! This is also a sanple file......
+>>>>>>> b2f76c10d19cf4b53f840940c5ec0339d8dab299
