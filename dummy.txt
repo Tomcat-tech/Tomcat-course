@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hi All !!
+=======
+Hi !! This is an dummy file 
+>>>>>>> c858b80175eff2300fb19dff15d6a158c590ac1e
